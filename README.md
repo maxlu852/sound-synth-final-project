@@ -9,6 +9,7 @@ Performance Notes:
 - next EVENTS are cued using the spacebar
 - "CUES" will appear in the Max Console, and correspond to the timing of musical events in the score
 - timing is very free, generally allow the sounds to settle and fade away before proceeding onto the next event
+- at different times, the keyboard will make different tones. trust the score!! if there's any confusion, reach out to me at mal2339@columbia.edu
 
 
 temple bowl and whispering samples taken from freesound.org
